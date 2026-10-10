@@ -1,0 +1,6 @@
+{
+  "name": "ELSEWHERE",
+  "description": "An interactive Dreamcore sanctuary outside ordinary time. Explore surreal liminal environments, responsive water, soft generative soundscapes, and quiet mysteries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
